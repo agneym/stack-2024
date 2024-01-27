@@ -9,6 +9,13 @@
 - [SWC](https://swc.rs/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## Setup
+
+```bash
+npx degit agneym/stack-2024 project-name
+npm install
+```
+
 ## Running development server
 
 ```bash
