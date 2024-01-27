@@ -4,7 +4,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     Component() {
-      return <h1>Hello</h1>;
+      return <h1 className="font-extrabold">Hello</h1>;
     },
   },
 ]);
